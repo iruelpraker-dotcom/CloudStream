@@ -1,0 +1,8 @@
+{
+  "name": "CloudStream",
+  "description": "A high-performance cloud multi-streaming SaaS platform for looping video and audio playlists with real-time FFMPEG log monitoring and quota management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
